@@ -16,26 +16,21 @@
       	<methods> 		
 			 <include name="login"></include>
       	</methods>      
-      </class> 
+     </class> 
       
-       <class name="TestScripts.EventTest">
+     <!-- <class name="TestScripts.EventTest">
       	<methods>
 			<include name="addEvent"></include>
       	</methods>      
-      </class> 
+      </class> -->
       
-      <class name="TestScripts.NotesTest">
-      
-      
-      <!-- BEFORE METHOD -->
-      
-      	<methods>
-			<include name="addNotes"></include>
-      	</methods>  
-      	
-      <!-- AFTER METHOD -->
-          
-      </class>
+     <!--  <class name="TestScripts.NotesTest">      --> 
+	      <!-- BEFORE METHOD -->      
+	      	<!-- <methods>
+				<include name="addNotes"></include>
+	      	</methods> -->       	
+	      <!-- AFTER METHOD -->         
+     <!-- </class>-->
       
      <!-- AFTER CLASS -->
        

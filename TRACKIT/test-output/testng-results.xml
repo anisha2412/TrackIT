@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2025-07-17T11:22:53 IST" name="Suite" finished-at="2025-07-17T11:23:07 IST" duration-ms="14141">
+  <suite started-at="2025-07-20T12:45:24 IST" name="Suite" finished-at="2025-07-20T12:45:31 IST" duration-ms="6869">
     <groups>
     </groups>
-    <test started-at="2025-07-17T11:22:53 IST" name="Test" finished-at="2025-07-17T11:23:07 IST" duration-ms="14141">
-      <class name="TestScripts.NotesTest">
-        <test-method is-config="true" signature="browserinitailzation(java.lang.String)[pri:0, instance:TestScripts.NotesTest@248e319b]" started-at="2025-07-17T11:22:53 IST" name="browserinitailzation" finished-at="2025-07-17T11:23:05 IST" duration-ms="12048" status="PASS">
+    <test started-at="2025-07-20T12:45:24 IST" name="Test" finished-at="2025-07-20T12:45:31 IST" duration-ms="6869">
+      <class name="TestScripts.LoginTest">
+        <test-method is-config="true" signature="browserinitailzation(java.lang.String)[pri:0, instance:TestScripts.LoginTest@3e8c3cb]" started-at="2025-07-20T12:45:24 IST" name="browserinitailzation" finished-at="2025-07-20T12:45:30 IST" duration-ms="5185" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -18,11 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- browserinitailzation -->
-        <test-method signature="addNotes()[pri:0, instance:TestScripts.NotesTest@248e319b]" started-at="2025-07-17T11:23:05 IST" name="addNotes" finished-at="2025-07-17T11:23:07 IST" duration-ms="2004" status="PASS">
+        <test-method signature="login()[pri:0, instance:TestScripts.LoginTest@3e8c3cb]" started-at="2025-07-20T12:45:30 IST" name="login" finished-at="2025-07-20T12:45:31 IST" duration-ms="1275" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- addNotes -->
-      </class> <!-- TestScripts.NotesTest -->
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:TestScripts.LoginTest@3e8c3cb]" started-at="2025-07-20T12:45:31 IST" name="tearDown" finished-at="2025-07-20T12:45:31 IST" duration-ms="333" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestScripts.LoginTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
