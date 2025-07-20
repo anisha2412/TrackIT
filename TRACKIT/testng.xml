@@ -18,19 +18,19 @@
       	</methods>      
      </class> 
       
-     <!-- <class name="TestScripts.EventTest">
+     <class name="TestScripts.EventTest">
       	<methods>
 			<include name="addEvent"></include>
       	</methods>      
-      </class> -->
-      
-     <!--  <class name="TestScripts.NotesTest">      --> 
+      </class> 
+	   
+     <class name="TestScripts.NotesTest">       
 	      <!-- BEFORE METHOD -->      
-	      	<!-- <methods>
+	      	<methods>
 				<include name="addNotes"></include>
-	      	</methods> -->       	
+	      	</methods>        	
 	      <!-- AFTER METHOD -->         
-     <!-- </class>-->
+     </class>
       
      <!-- AFTER CLASS -->
        
