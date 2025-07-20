@@ -12,7 +12,7 @@
    
    <!-- BEFORE CLASS -->
    
-    <!-- <class name="TestScripts.LoginTest">
+    <class name="TestScripts.LoginTest">
       	<methods> 		
 			 <include name="login"></include>
       	</methods>      
@@ -22,7 +22,7 @@
       	<methods>
 			<include name="addEvent"></include>
       	</methods>      
-      </class> -->
+      </class> 
       
       <class name="TestScripts.NotesTest">
       
